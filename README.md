@@ -117,3 +117,15 @@ Random Forest Classifier
 Feature scaling using StandardScaler
 
 Achieves good accuracy on large datasets
+Future Improvements
+
+Add advanced models (XGBoost, LightGBM)
+
+Add EDA dashboard inside Streamlit
+
+Deploy on Streamlit Cloud
+
+Add customer upload & batch prediction
+
+Improve UI and visualizations
+
